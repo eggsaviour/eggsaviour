@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 My name is Xavier
 -
-- 🔭 I’m currently working on my computer programming degree
+- 🔭 I’m currently working on my computer programming and data analysis degree
 - 🌱 I’m currently learning JAVA and SQL
 - 🤔 I’m looking for help with career advice
 - 💬 Ask me about anything!
